@@ -1,0 +1,1 @@
+ESG-style scoring structure
