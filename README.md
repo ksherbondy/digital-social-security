@@ -1,3 +1,11 @@
+![digital, cyber security, imagine of several people holding up shields that are all interconnected cr](https://github.com/user-attachments/assets/887d58d0-bb22-4331-97e0-452f3cc2cf66)
+
+
+
+
+
+
+
 # digital-social-security
 Digital Social Security (DSS) Framework - A civic framework for collective digital security.
 
