@@ -1,3 +1,8 @@
+************************
+Creators Note: In order to see the full implementaion of how this is to be done you must be a contributor/developer on this project.
+************************
+
+
 Digital Social Security (DSS) Certificates: A Rigorous Framework for Secure, Decentralized Credentialing
 Abstract
 Digital Social Security (DSS) certificates are designed to provide an unprecedented level of trust, privacy, and resilience in digital credentialing. By combining a multi-CA cryptographic chaining model, privacy-preserving salt and hash transformations, and a Two-Person Concept (TPC) inspired multi-route transmission architecture, DSS certs ensure tamper-proof, decentralized, and auditable certification. This paper presents a comprehensive end-to-end framework—from initial training completion requests through final certification—detailing each cryptographic, procedural, and systemic step in the lifecycle of a DSS certificate.
